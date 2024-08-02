@@ -1,0 +1,6 @@
+[submodule "nginx-proxy-manager"]
+	path = nginx-proxy-manager
+	url = https://github.com/NginxProxyManager/nginx-proxy-manager.git
+[submodule "docker-nginx-full"]
+	path = docker-nginx-full
+	url = https://github.com/NginxProxyManager/docker-nginx-full.git
